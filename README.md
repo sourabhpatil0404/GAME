@@ -8,5 +8,5 @@ GAME
 <Br>
 ~ The game continues until the correct number is guessed, and the program displays the number of attempts taken to guess correctly.
 <br>
-Fun playing!.
+Fun playing!
 
